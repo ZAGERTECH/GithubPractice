@@ -3,10 +3,14 @@
 
 #include <iostream>
 
+void Juliang(){
+	std::cout << "Hello, Juliang" << std::endl;
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
-
+	Juliang();
 
     getchar();
     return 0;
