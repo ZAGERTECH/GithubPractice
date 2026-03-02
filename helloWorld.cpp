@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "I'm bike!!-X1\n";
 	std::cout << "I'm bike!!-X2\n";
+	std::cout << "I'm bike!!-X3\n";
 
     getchar();
     return 0;
